@@ -1,5 +1,6 @@
 - 👋 Hi, I’am Pranali Pawar
-- 👀 I’m interested in front end designing and making website ,portfolio .
+- 👀 I’m interested in front end development and designing , making website ,portfolio .
+- I have skills like core java,sql Html,CSS .
 - 🌱 I’m currently learning Java Full Stack Development Course in QSpider ,Wakad in pune.  
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ppranali2882001@gmail.com
