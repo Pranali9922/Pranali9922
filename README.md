@@ -2,7 +2,7 @@
 - 👀 I’m interested in front end designing and making website ,portfolio .
 - 🌱 I’m currently learning Java Full Stack Development Course in QSpider ,Wakad in pune.  
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ppranali2882001@gmail.com
 
 <!---
 Pranali9922/Pranali9922 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
