@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pranali9922
+- 👋 Hi, I’am Pranali Pawar
 - 👀 I’m interested in front end designing and making website ,portfolio .
 - 🌱 I’m currently learning Java Full Stack Development Course IN QSpider ,Wakad in pune.  
 - 💞️ I’m looking to collaborate on ...
