@@ -1,5 +1,5 @@
 ![github-header-image](https://github.com/Pranali9922/Pranali9922/assets/109171261/d81ed6e9-3f15-4ea6-b4e7-9566a77e99ca)
-)
+
 - 👋 Hi, I’am Pranali Pawar
 - 👀 I’m interested in front end development and designing , making website ,portfolio .
 - I have skills like core java,sql Html,CSS,JavaScript.
