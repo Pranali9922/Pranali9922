@@ -1,6 +1,6 @@
 ![github-header-image](https://github.com/Pranali9922/Pranali9922/assets/109171261/d81ed6e9-3f15-4ea6-b4e7-9566a77e99ca)
 
-- 👋 Hi,I am from Pune
+- 👋 I am from Pune
 - 👀 I’m interested in front end development and designing , making website ,portfolio .
 - I have skills like core java,sql Html,CSS,JavaScript.
 - 🌱 I’m currently learning Web Development and making new projects where i can improve my skills.  
