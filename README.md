@@ -1,5 +1,5 @@
 ![github-header-image](https://github.com/Pranali9922/Pranali9922/assets/109171261/d81ed6e9-3f15-4ea6-b4e7-9566a77e99ca)
-
+- 👋 Hi, I'm Pranali Pawar.
 - 🌍 Web  Developer | Open Source Enthusiast
 - 💻 Passionate about Html, CSS, JavaScript, Core Java ,SQL and Web Development
 - 🚀 Actively seeking opportunities for collaboration and  making new projects where i can improve my skills.  
