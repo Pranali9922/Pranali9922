@@ -1,4 +1,4 @@
-(https://github.com/Pranali9922/Pranali9922/assets/109171261/4d9578fa-bcf3-471d-854e-77a89cda8aa4)
+github image(https://github.com/Pranali9922/Pranali9922/assets/109171261/4d9578fa-bcf3-471d-854e-77a89cda8aa4)
 )
 - 👋 Hi, I'm Pranali Pawar.
 - 🌍 Web  Developer | Open Source Enthusiast
