@@ -4,10 +4,9 @@
 - 🌍 Software Developer | Open Source Enthusiast
 - 💻 Passionate about Html, CSS, JavaScript, Core Java ,SQL and Web Development
 - 🚀 Actively seeking opportunities for collaboration and  making new projects where i can improve my skills.  
-- 🌐 LinkedIn : https://www.linkedin.com/in/pranali-p-560ab8220
 - 📫 How to reach me
 - 📧 Email: youremail@example.com
-
+- 🌐 LinkedIn : https://www.linkedin.com/in/pranali-p-560ab8220
 
 🌱 Outside of coding, I enjoy traveling.
 
