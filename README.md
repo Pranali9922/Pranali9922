@@ -5,7 +5,7 @@
 - 💻 Passionate about Html, CSS, JavaScript, Core Java ,SQL and Web Development
 - 🚀 Actively seeking opportunities for collaboration and  making new projects where i can improve my skills.  
 - 📫 How to reach me
-- 📧 Email: youremail@example.com
+- 📧 Email: pranalipawar240@gmail.com
 - 🌐 LinkedIn : https://www.linkedin.com/in/pranali-p-560ab8220
 
 🌱 Outside of coding, I enjoy traveling.
