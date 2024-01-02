@@ -1,4 +1,5 @@
-![header](https://github.com/Pranali9922/Pranali9922/assets/109171261/4d9578fa-bcf3-471d-854e-77a89cda8aa4)
+![header](![linkedin bAnner](https://github.com/Pranali9922/Pranali9922/assets/109171261/8bb6d5ff-287b-4ddf-85c2-b38f9f765be2)
+)
 
 - 👋 Hi, I'm Pranali Pawar.
 - 🌍 Web  Developer | Open Source Enthusiast
