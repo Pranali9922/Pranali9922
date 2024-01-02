@@ -1,5 +1,5 @@
-![header](![linkedin bAnner](https://github.com/Pranali9922/Pranali9922/assets/109171261/8bb6d5ff-287b-4ddf-85c2-b38f9f765be2)
-)
+![header](![linkedin banner 2](https://github.com/Pranali9922/Pranali9922/assets/109171261/f0602225-c06f-4170-8888-8c13ef1bd9cf)
+
 
 - 👋 Hi, I'm Pranali Pawar.
 - 🌍 Web  Developer | Open Source Enthusiast
