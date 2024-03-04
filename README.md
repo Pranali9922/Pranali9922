@@ -1,4 +1,4 @@
-(![linkedin banner 2](https://github.com/Pranali9922/Pranali9922/assets/109171261/f0602225-c06f-4170-8888-8c13ef1bd9cf)
+![linkedin banner 2](https://github.com/Pranali9922/Pranali9922/assets/109171261/f0602225-c06f-4170-8888-8c13ef1bd9cf)
 
 
 - 👋 Hi, I'm Pranali Pawar.
