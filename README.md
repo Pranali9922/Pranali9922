@@ -3,7 +3,7 @@
 
 - 👋 Hi, I'm Pranali Pawar.
 - 🌍 Web  Developer | Open Source Enthusiast
-- 💻 Passionate about Html, CSS, JavaScript, Core Java ,SQL and Web Development
+- 💻 Passionate about  React JS, Tailwind CSS,Html5, CSS3, JavaScript, Core Java ,basic SQL and front end Development
 - 🚀 Actively seeking opportunities for collaboration and  making new projects where i can improve my skills.  
 - 📫 How to reach me
 - 📧 Email: pranalipawar240@gmail.com
